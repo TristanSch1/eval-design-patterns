@@ -12,7 +12,7 @@ npm run dev
 
 ## Description
 
-Le projet consiste en des catalogues de produits ainsi que des utilisateurs, les utilisateurs sont chacun assigné à un catalogue, ils peuvent y ajouter et retirer des produits. Lorsqu'ils ajoutent ou retirent un produit, les autres utilisateurs reçoivent une notification grâce au pattern Observer.
+Le projet contient des catalogues de produits ainsi que des utilisateurs, les utilisateurs sont chacun assigné à un catalogue, ils peuvent y ajouter et retirer des produits. Lorsqu'ils ajoutent ou retirent un produit, les autres utilisateurs reçoivent une notification grâce au pattern Observer.
 
 Un catalogue peux être sauvegarder a tous moment. Il peut également être restaurer à un état précédent grâce au Memento.
 
